@@ -1,6 +1,6 @@
 {
   "name": "jambudvipa-router",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Node.js api router implemented using Netflix Falcor.",
   "main": "src/index.js",
   "scripts": {
