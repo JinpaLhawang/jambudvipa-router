@@ -1,2 +1,2 @@
 # jambudvipa-router
-Node.js api router implemented using Netflix Falcor
+Node.js api router implemented using Netflix Falcor.
